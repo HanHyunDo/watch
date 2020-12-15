@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>watch_71.jpg</filename>
+	<path>C:\Users\i\Desktop\windows_v1.8.0\windows_v1.8.0\data\watch_71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>112</ymin>
+			<xmax>467</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>
